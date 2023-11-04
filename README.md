@@ -6,12 +6,8 @@ Plataforma informativa da Alura+ sobre venda de cursos de programação
 | -------------  | --- |
 | :sparkles: Nome        | **ALURA PLUS**
 | :label: Tecnologias | HTML e CSS
-| :rocket: URL         | 
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | https://conecttheo.github.io/ALURA-PLUS/
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
-## Detalhes do projeto
+![Captura de tela 2023-10-31 140151](https://github.com/conecttheo/ALURA-PLUS/assets/127543588/aa3d2441-4b69-4e58-abd5-393dca042fd8)
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
