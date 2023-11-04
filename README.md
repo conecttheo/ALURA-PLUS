@@ -1,4 +1,8 @@
-# ALURA PLUS
+# ALURA PLUS 
+<p align="left"><img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
+
+
 
 Plataforma informativa da Alura+ sobre venda de cursos de programação
 
